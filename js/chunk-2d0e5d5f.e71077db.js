@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5d5f"],{"95d1":function(e){e.exports=JSON.parse('[{"name":"Dehydrated Ration","description":"Common Gift. Best effect given to Independent Aurorians. Lightweight, compact dehydrated ration popular among small settlements."},{"name":"Panacea","description":"Valuable Gift. Best effect when given to Independent Aurorians. Magical wonder-potion that can make a doctor out of anyone in some settlements."}]')}}]);
+//# sourceMappingURL=chunk-2d0e5d5f.e71077db.js.map

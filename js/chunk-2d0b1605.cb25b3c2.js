@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1605"],{"201b":function(e){e.exports=JSON.parse('[{"name":"Crunchy Munchy Crunch","description":"Common Gift. Best effect when given to forthright Aurorians. A specialty from the wasteland. Straightforward people enjoy this unique taste very much."},{"name":"Tool Kit","description":"Valuable Gift. Best effect when given to forthright Aurorians. A box of tools for most crafting and repairing needs. A particular favorite of no-nonsense people."}]')}}]);
+//# sourceMappingURL=chunk-2d0b1605.cb25b3c2.js.map

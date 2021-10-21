@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cc9f6"],{"4f5c":function(e){e.exports=JSON.parse('[{"name":"Gold Scarab","description":"Common Gift. Best effect when given to True Order Aurorians. Ancient scarab encased in amber. The True Order believes it holds mysterious power."},{"name":"Oracle Scroll","description":"Valuable Gift. Best effect when given to True Order Aurorians. Scroll containing inscrutable revelations. Many secrets will be revealed should True Order members decipher it."}]')}}]);
+//# sourceMappingURL=chunk-2d0cc9f6.d719bcf7.js.map

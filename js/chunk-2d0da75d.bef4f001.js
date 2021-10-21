@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0da75d"],{"6c60":function(e){e.exports=JSON.parse('[{"name":"Bunnybear Plush","description":"Common Gift. Best effect when given to romantic Aurorians. Hand-crafted doll favored by romantics. It resembles both a rabbit and a bear. Creator unknown."},{"name":"Sunset Flask","description":"Valuable Gift. Best effect when given to romantic Aurorians It\'s very romantic to see the beautiful array of lights inside the flask in a dim setting."}]')}}]);
+//# sourceMappingURL=chunk-2d0da75d.bef4f001.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1fe8"],{"21e8":function(n){n.exports=JSON.parse('[{"name":"Replica Painting","description":"Common Gift. Best effect when given to Umbraton Aurorians. Replica of different famous paintings. Popular in Umbraton."},{"name":"Vintage Wine","description":"Valuable Gift. Best effect when given to Umbraton Aurorians. Only certain tycoons in Umbraton get an occasional sip of this precious libation."}]')}}]);
+//# sourceMappingURL=chunk-2d0b1fe8.b4d39272.js.map

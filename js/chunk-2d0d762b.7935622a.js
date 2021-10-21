@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d762b"],{"771f":function(e){e.exports=JSON.parse('[{"name":"Crystal Spine","description":"Valuable Gift. Best effect when given to Aurorians into esoterica. The crystallized spiky fossil of an unknown creature for the extremely curios collectors."},{"name":"Mounted Spikepede","description":"Common Gift. Best effect when given to Aurorians into esoterica. Famous for its odd appearance, this insect attracts collectors of curios."}]')}}]);
+//# sourceMappingURL=chunk-2d0d762b.7935622a.js.map
